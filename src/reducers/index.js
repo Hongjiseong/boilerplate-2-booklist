@@ -1,5 +1,5 @@
 import {combineReducers} from 'redux';
-import BooksReducer from './reducers-books';
+import BooksReducer from './reducer-books';
 import ActiveBook from './reducer-active-book';
 
 // 리듀서 객체들을 종합하여 애플리케이션 스테이트를 만들어주고 있습니다.
